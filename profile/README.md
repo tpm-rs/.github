@@ -6,7 +6,7 @@ Welcome to TPM-RS.  Please excuse our dust as we continue to get things rolling.
 The Mission of the TPM-RS Project is to support the development of TPM-related firmware and tools
 based upon the public TPM Library specifications published by Trusted Computing Group, primarily using the Rust language.
 
-🌈 Contribution guidelines 
+## Contribution guidelines 
 You can read the origanization charter and all the other legal stuff here: https://github.com/tpm-rs/governance/
 
 The short version of all the paperwork boils down to this:
