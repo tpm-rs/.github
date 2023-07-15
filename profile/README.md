@@ -7,14 +7,14 @@ The Mission of the TPM-RS Project is to support the development of TPM-related f
 based upon the public TPM Library specifications published by Trusted Computing Group, primarily using the Rust language.
 
 ## Contribution guidelines 
-You can read the origanization charter and all the other legal stuff here: https://github.com/tpm-rs/governance/
+You can read the organization charter and all the other legal stuff here: https://github.com/tpm-rs/governance/
 
 The short version of all the paperwork boils down to this:
 
 * This is an Open Source Apache-2 Licensed Project,
 * We are sponsored by Trusted Computing Group, Microsoft and Google.
 * We're not jerks, don't be one.
-* and Have Fun!
+* Have Fun!
 
 <!--
 **Here are some ideas to get you started:**
