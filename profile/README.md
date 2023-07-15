@@ -11,7 +11,7 @@ You can read the organization charter and all the other legal stuff here: https:
 
 The short version of all the paperwork boils down to this:
 
-* This is an Open Source Apache-2 Licensed Project,
+* This is an Open Source Apache-2 Licensed Project.
 * We are sponsored by Trusted Computing Group, Microsoft and Google.
 * We're not jerks, don't be one.
 * Have Fun!
